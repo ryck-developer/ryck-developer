@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/luiz.henrique.dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/edmiro-cacoma-88aa37224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edmiro-cacoma-88aa37224/" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=5586994059642&text=Ol%C3%A1,%20venho%20pelo%20seu%20github." target="blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" height="40" /></a>
 <a href="https://www.youtube.com/c/front-end-club" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="front-end-club" height="30" width="40" /></a>
 </p>
 
