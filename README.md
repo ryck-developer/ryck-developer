@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmiro-cacoma&label=Profile%20views&color=0e75b6&style=flat" alt="edmiro-cacoma" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 💼 Trabalhando com NuxtJS e VueJs com Laravel
 
-- 💬 Ask me about **html5, css3, scss, Javascript, React Js**
+- 💬 Aprendendo NextJs, NestJs e PrismaJs
 
-- 📫 How to reach me **edmirocacoma99@gmail.com**
+- 👨‍🎓 Estudando de Biomedicina na AESPI FAPI para me especializar em Bio-Informática
+
+- 📫 Me mande um email **oliveirachaves97@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
