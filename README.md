@@ -7,7 +7,7 @@
 
 - 💬 Aprendendo NextJs, NestJs e PrismaJs
 
-- 👨‍🎓 Estudando de Biomedicina na AESPI FAPI para me especializar em Bio-Informática
+- 👨‍🎓 Estudando Biomedicina na AESPI FAPI para me especializar em Bio-Informática
 
 - 📫 Me mande um email **oliveirachaves97@gmail.com**
 
